@@ -1,3 +1,4 @@
+![image](https://github.com/LakinduNimesh/LakinduNimesh/assets/149768006/d8756eb1-4b69-45b0-8d82-000a4f4e2127)
 ## Hey there 👋, I'm [Lakindu Nimesh!](https://github.com/LakinduNimesh)
 
 <h3 align="left">Connect with me:</h3>
