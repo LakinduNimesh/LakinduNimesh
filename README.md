@@ -1,4 +1,5 @@
-![Screenshot 2024-05-10 193935](https://github.com/LakinduNimesh/LakinduNimesh/assets/149768006/e05955c1-7415-48ab-9dea-168b57eb6288)
+![Screenshot 2024-05-10 193935](https://github.com/LakinduNimesh/LakinduNimesh/assets/149768006/1aaec69b-3d8c-4e3d-afcf-15092aa91628)
+
 ## Hey there 👋, I'm [Lakindu Nimesh!](https://github.com/LakinduNimesh)
 
 <h3 align="left">Connect with me:</h3>
@@ -8,8 +9,6 @@
 <a href="https://instagram.com/l_a_k_i_nim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l_a_k_i_nim" height="30" width="40" /></a>
 <a href="https://www.behance.net/lakindunimesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lakindunimesh1" height="30" width="40" /></a>
 </p>
-![image_processing20210511-12175-1v0etim](https://github.com/LakinduNimesh/LakinduNimesh/assets/149768006/72f80417-1c89-4398-adc0-cad5f619c173)
-
 
 ### Glad to see you here! &nbsp; !
 
