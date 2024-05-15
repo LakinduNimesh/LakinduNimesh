@@ -9,6 +9,15 @@
 <a href="https://instagram.com/l_a_k_i_nim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l_a_k_i_nim" height="30" width="40" /></a>
 <a href="https://www.behance.net/lakindunimesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lakindunimesh1" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <samp>
+    <a href="https://www.google.com/search?q=Menuk+Fernando">「 Google Me 」</a>
+    <br />
+    「 I am a programming enthusiast from <b>Sri Lanka</b> 」
+    <br />
+    <br />
+  </samp>
+</p>
 
 ### Glad to see you here! &nbsp; !
 
