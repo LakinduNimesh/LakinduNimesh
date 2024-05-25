@@ -9,7 +9,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-  > Hey there 👋, I'm [Lakindu!](https://github.com/LakinduNimesh)
+  > Hey there 👋, I'm Lakindu Nimesh
 </h3>
 
 <p align="center">
