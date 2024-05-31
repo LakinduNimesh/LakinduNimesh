@@ -139,5 +139,5 @@
   <br />
 </a>
 
-![LAKI's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LakinduNimesh&custom_title=Lakindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![LAKI's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LakinduNimesh&custom_title=Lakindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=d2fd35&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
