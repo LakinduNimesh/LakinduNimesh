@@ -106,7 +106,7 @@
 <p align="center">
   <a href="https://github.com/LakinduNimesh">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=LakinduNImesh&theme=radical&border=7F3FBF&background=0D1117"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=LakinduNImesh&theme=radical&border=33ec00&background=0D1117"
       alt="LAKI's GitHub streak"
     />
   </a>
@@ -125,14 +125,14 @@
   <a href="https://github.com/LakinduNimesh"
     ><img
       alt="LAKI's Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LakinduNImesh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LakinduNImesh&show_icons=true&count_private=true&theme=react&border_color=fd3535&bg_color=0D1117&title_color=F85D7F&icon_color=d2fd35"
       height="192px"
       width="49.5%"
   /></a>
   <a href="https://github.com/menukfernando"
     ><img
       alt="LAKI's Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LakinduNimesh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LakinduNimesh&langs_count=8&layout=compact&theme=react&border_color=C9D1D9&bg_color=0D1117&title_color=F85D7F&icon_color=C9D1D9"
       height="192px"
       width="49.5%"
   /></a>
