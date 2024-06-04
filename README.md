@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/LakinduNimesh">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakinduNImesh&theme=radical"
       alt="LAKI's GitHub Contribution"
@@ -129,7 +129,7 @@
       height="192px"
       width="49.5%"
   /></a>
-  <a href="https://github.com/menukfernando"
+  <a href="https://github.com/lakinduNimesh"
     ><img
       alt="LAKI's Top Languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LakinduNimesh&langs_count=8&layout=compact&theme=react&border_color=C9D1D9&bg_color=0D1117&title_color=F85D7F&icon_color=C9D1D9"
