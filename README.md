@@ -12,7 +12,6 @@
   > Hey there 👋, I'm Lakindu Nimesh
 </h3>
 
-
 <p align="center">
   <samp>
     <a href="https://www.linkedin.com/in/lakindu-nimesh/">「 Google Me 」</a>
