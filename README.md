@@ -22,7 +22,6 @@
   </samp>
 </p>
 
-
 <p align="center">
   <a href="#" target="blank">
     <img
